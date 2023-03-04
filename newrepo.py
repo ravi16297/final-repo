@@ -1,0 +1,2 @@
+print("world is beautiful")
+
